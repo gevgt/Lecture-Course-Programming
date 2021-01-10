@@ -1,2 +1,2 @@
 # Lecture-Course-Programming
-My homework for the lecture Course "Programming" at RWTH Aachen
+My homework for the lecture course "Programming" at RWTH Aachen
